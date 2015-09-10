@@ -12,17 +12,25 @@ h2 {
 
 h3 {
   font-family: arial;
+  color: white;
 }
 
 p {
   font-family: arial;
   text-align: left;
+  color: white;
 }
 
 ol {
   font-family: arial;
+  color: white;
 }
 
 ul {
   font-family: arial;
+  color: white;
+}
+
+body {
+  background-color: black;
 }
