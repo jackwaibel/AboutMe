@@ -22,7 +22,7 @@ This is a webpage that will allow the visitor to learn more about me including b
 
 ##Link to GitHub Pages
 
-
+* http://jackwaibel.github.io/AboutMe/
 
 ## Legal
 
