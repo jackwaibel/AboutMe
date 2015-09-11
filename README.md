@@ -11,7 +11,7 @@ This is a webpage that will allow the visitor to learn more about me including b
 * Where I am from
 * My interests and hobbies
 * My current and past work experiences
-* My family and friends
+* My favorite websites
 
 ##Setup
 
